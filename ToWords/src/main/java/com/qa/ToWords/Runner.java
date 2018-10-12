@@ -6,7 +6,7 @@ public class Runner
     {
 		ToWords ei = new     ToWords();
         //long number = 708500555765485530l;
-        long number = 011l;
+        long number = 341l;
         System.out.println(ei.numberToWord(number));
     }
 }
